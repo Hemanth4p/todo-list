@@ -1,0 +1,16 @@
+
+    body {
+         font-family: Arial; padding: 20px; text-align: center; }
+    input, button { padding: 5px; margin: 5px; }
+    h2{
+        margin: 50px;
+        font-size: 50px;
+    }
+    ul { padding-left: 20px; }
+    li { margin: 5px 0; }
+    .delete-btn {
+      margin-left: 10px;
+      color: red;
+      cursor: pointer;
+    }
+  
